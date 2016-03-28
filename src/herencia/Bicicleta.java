@@ -8,7 +8,9 @@ package herencia;
 /**
  *
  * @author Estudiante
+ * 
  */
+
 public class Bicicleta {
     
     private FiguraGeometrica ruedas[];
