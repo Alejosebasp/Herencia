@@ -16,9 +16,6 @@ public class Bicicleta {
     private FiguraGeometrica marco[];
 
     public Bicicleta(FiguraGeometrica[] ruedas, FiguraGeometrica plato, FiguraGeometrica[] marco) {
-        ruedas = new Circulo[2];
-        marco = new Triangulo[3];
-        
         this.ruedas = ruedas;
         this.plato = plato;
         this.marco = marco;
